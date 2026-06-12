@@ -33,12 +33,9 @@ Além disso, deverá ter um método chamado atacar e deverá atender os seguient
 ---
 
 ## Exemplo de saída
-
-Ao final deve se exibir uma mensagem:<br>
-
-- "O {classe} atacou usando {ataque}"<br>
-  ex: O Arcanista atacou usando Raio Gélido <br>
-      O Paladino atacou usando Escudo Reluzente <br>
+ 
+- O Arcanista atacou usando Raio Gélido <br>
+- O Paladino atacou usando Escudo Reluzente <br>
 
 ---
 ##### Projeto desenvolvido como desafio da "Formação Lógica de Programação" com a DIO.

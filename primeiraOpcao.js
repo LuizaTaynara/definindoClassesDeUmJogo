@@ -11,5 +11,7 @@ class buildingHero{
 }
 
 let hero = new buildingHero("Eleven", 23, "Arcanista", "Raio Gélido")
+let hero2 = new buildingHero("TheVoid", 25, "Paladino", "Escudo Reluzente")
 
 hero.fight()
+hero2.fight()

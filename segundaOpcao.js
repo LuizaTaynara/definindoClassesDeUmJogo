@@ -26,7 +26,7 @@ class hero {
                 break
 
             case "Paladino":
-                fight = "Escudo Reluzente";
+                fight = "Escudo Reluzente"
                 break
         }
 

@@ -1,4 +1,4 @@
-# ⚜️ Escrevendo as classes de um Jogo
+# ⚜️ Definindo as classes de um Jogo
 
 ## **O Que deve ser utilizado**
 - Variáveis

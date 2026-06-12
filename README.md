@@ -18,7 +18,7 @@ Criar uma classe generica que represente um herói de uma aventura e que possua 
 - Classe
 
 Além disso, deverá ter um método chamado atacar e deverá atender os seguientes requisitos:
-- Exibir a mensagem: "o {classe} atacou usando {ataque}")
+- Exibir a mensagem: "o {classe} atacou usando {ataque}"
 - Onde a {classe} deverá ser concatenada com o {ataque} seguindo a tabela abaixo:
   
 <br>
